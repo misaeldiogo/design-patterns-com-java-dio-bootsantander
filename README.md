@@ -1,4 +1,4 @@
-# Criando um Banco Digital com Java e Orientação a Objetos
+# Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework
 
 
 ## Autor
